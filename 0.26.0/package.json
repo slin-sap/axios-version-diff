@@ -1,0 +1,11 @@
+{
+    "name": "old-axios-client",
+    "type": "module",
+    "dependencies": {
+        "axios": "0.26.0",
+        "dotenv": "16.3.1"
+    },
+    "scripts": {
+        "dev": "node index.js"
+    }
+}
